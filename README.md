@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=egg&color=0:8B7FD4,100:4A3F94&height=200&section=header&text=Hi%20there!%20I'm%20Seoyeon&fontSize=42&fontColor=ffffff&fontAlignY=32" />
+  <img src="https://capsule-render.vercel.app/api?type=egg&color=0:6DD5ED,100:2193B0&height=200&section=header&text=Hi%20there!%20I'm%20Seoyeon&fontSize=42&fontColor=ffffff&fontAlignY=32" />
 </p>
 
 ## 💡 About Me
@@ -88,5 +88,5 @@
 
   
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=egg&color=0:8B7FD4,100:4A3F94&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=egg&color=0:6DD5ED,100:2193B0&height=120&section=footer" />
 </p>
