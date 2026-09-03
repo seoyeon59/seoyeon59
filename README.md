@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=egg&color=0:C4B5E8,100:8B7AB8&height=200&section=header&text=I'm%20Seoyeon&fontSize=42&fontColor=ffffff&fontAlignY=32" />
+  <img src="https://capsule-render.vercel.app/api?type=egg&color=0:C4B5E8,100:8B7AB8&height=200&section=header&text=I'm%20Seoyeon%20🖐️&fontSize=42&fontColor=ffffff&fontAlignY=32" />
 </p>
 
 ## 💡 About Me
@@ -51,25 +51,25 @@
 - 🩺 **늘봄 낙상감지 앱** `2026.04 ~ 진행 중`  
   AI 기반 고령층 낙상 감지 헬스케어 앱 · 팀장 / 기획 / AI 담당
 
-- 📈 **Wiki Trend - 위키피디아 실시간 스트림 트랜드 감지 파이프라인** `2026.03 ~ 2026.05`  
+- 📈 **[Wiki Trend — 위키피디아 실시간 트렌드 감지 파이프라인](https://github.com/seoyeon59/wiki-trend)** `2026.03 ~ 2026.05`  
    실시간 스트림 처리 파이프라인 · Docker·K8s 기반 MSA 배포 · SW 저작권 등록
   
-- 🦙 **싹싹번역 - 전공 강의자료 번역 프로그램** `2026.04 ~ 2025.05`  
+- 🦙 **[싹싹번역 — 전공 강의자료 번역 프로그램](https://github.com/seoyeon59/ssaksak-translate)** `2026.04 ~ 2025.05`  
   로컬 LLM 전공 강의자료 번역기 · 24개 전공 용어사전 · 개발·배포 단독 수행 · SW 저작권 등록
 
-- 🩺 **실시간 낙상 위험 알림 시스템** `2025.09 ~ 2026.02`  
+- 🩺 **[실시간 낙상 위험 알림 시스템](https://github.com/seoyeon59/fall-risk-prediction)** `2025.09 ~ 2026.02`  
   포즈 추정 기반 낙상 예측 시스템 · AUC 0.98 · 팀장 / 논문 제1저자 · SW 저작권 등록
   
-- 🗣️ **TonePack** `2026.01`  
+- 🗣️ **[TonePack](https://github.com/seoyeon59/tonepack)** `2026.01`  
   상황별 커뮤니케이션 템플릿 앱 · Kotlin·Room DB · GURU2 장려상
 
-- 🔓 **홈페이지 비정상 접속 유형 분석** `2025.06 ~ 2025.09`  
+- 🔓 **[홈페이지 비정상 접속 유형 분석](https://github.com/seoyeon59/dataengenius-website)** `2025.06 ~ 2025.09`  
   웹 로그 기반 비정상 접속 유형 분석 · Linux·Apache·SQL · 총괄 리더
 
-- 🌐 **에티코드 — AI 편향 체험 퀴즈** `2025.03 ~ 2025.06`   
+- 🌐 **[에티코드 — AI 편향 체험 퀴즈]()** `2025.03 ~ 2025.06`   
   AI 윤리 캠페인 퀴즈 웹 · GitHub Pages 배포 · 참여자 249명
 
-- 🌦️ **Weather Data Pipeline** `2025.03 ~ 2025.05`  
+- 🌦️ **[Weather Data Pipeline](https://github.com/seoyeon59/weather-data-pipeline)** `2025.03 ~ 2025.05`  
   네이버 날씨 크롤링·DB 적재 자동화 · Selenium·MariaDB·스케줄러 · 파이프라인 설계
 
 - 🪨**철강 산업 에너지 소비량 예측** `2025.03 ~ 2025.04`   
@@ -78,7 +78,7 @@
 - 📊 **시스 로그 분석 학습** `2025.01 ~ 2025.02`   
   교내 Wi-Fi syslog 분석 · Linux·Python·SQL · 1인당 모바일 1.39대
 
-- 🚗 **중고차 가격 예측** `2023.09 ~ 2023.12`    
+- 🚗 **[중고차 가격 예측](https://github.com/seoyeon59/used-car-price-prediction)** `2023.09 ~ 2023.12`    
   차량 이력정보까지 반영한 회귀 모델 · XGBoost RMSE 0.09 
    
     <br>
