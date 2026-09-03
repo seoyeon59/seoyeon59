@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=egg&color=0:C4B5E8,100:8B7AB8&height=200&section=header&text=Hi%20there!%20I'm%20Seoyeon&fontSize=42&fontColor=ffffff&fontAlignY=32" />
+  <img src="https://capsule-render.vercel.app/api?type=egg&color=0:C4B5E8,100:8B7AB8&height=200&section=header&text=I'm%20Seoyeon&fontSize=42&fontColor=ffffff&fontAlignY=32" />
 </p>
 
 ## 💡 About Me
