@@ -66,7 +66,7 @@
 - 🔓 **[홈페이지 비정상 접속 유형 분석](https://github.com/seoyeon59/dataengenius-website)** `2025.06 ~ 2025.09`  
   웹 로그 기반 비정상 접속 유형 분석 · Linux·Apache·SQL · 총괄 리더
 
-- 🌐 **[에티코드 — AI 편향 체험 퀴즈]()** `2025.03 ~ 2025.06`   
+- 🌐 **[에티코드 — AI 편향 체험 퀴즈](https://github.com/stoney109/bahrom-ethicode-quiz-web)** `2025.03 ~ 2025.06`   
   AI 윤리 캠페인 퀴즈 웹 · GitHub Pages 배포 · 참여자 249명
 
 - 🌦️ **[Weather Data Pipeline](https://github.com/seoyeon59/weather-data-pipeline)** `2025.03 ~ 2025.05`  
