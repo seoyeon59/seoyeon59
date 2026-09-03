@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=egg&color=0:8EC5FC,100:4A90D9&height=200&section=header&text=I'm%20Seoyeon%20👋&fontSize=45&fontColor=ffffff&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=egg&color=color=0:8B7FD4,100:4A3F94&height=200&section=header&text=I'm%20Seoyeon%20👋&fontSize=45&fontColor=ffffff&fontAlignY=38" />
 </p>
 
 ## 💡 About Me
@@ -85,3 +85,8 @@
 <a href="https://www.instagram.com/w__kite/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-FF0069?style=flat-square&logo=instagram&logoColor=white">
 </a>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=egg&color=color=0:8B7FD4,100:4A3F94&height=120&section=footer" />
+</p>
