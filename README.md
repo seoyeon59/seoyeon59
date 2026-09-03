@@ -63,7 +63,7 @@
 - 🗣️ **TonePack** `2025.12 ~ 2026.01` [↗](https://github.com/seoyeon59/tonepack)  
   상황별 커뮤니케이션 템플릿 앱 · Kotlin·Room DB · GURU2 장려상
 
-- 🔓 **홈페이지 비정상 접속 유형 분석** `2025.06 ~ 2025.09` [홈페이지↗](https://github.com/seoyeon59/dataengenius-website) [분석↗]  
+- 🔓 **홈페이지 비정상 접속 유형 분석** `2025.06 ~ 2025.09` [홈페이지↗](https://github.com/seoyeon59/dataengenius-website) [분석↗](https://github.com/seoyeon59/access-log-analysis)  
   웹 로그 기반 비정상 접속 유형 분석 · Linux·Apache·SQL · 총괄 리더
 
 - 🌐 **에티코드 — AI 편향 체험 퀴즈** `2025.03 ~ 2025.06` [↗](https://github.com/stoney109/bahrom-ethicode-quiz-web)   
@@ -72,10 +72,10 @@
 - 🌦️ **Weather Data Pipeline** `2025.03 ~ 2025.05` [↗](https://github.com/seoyeon59/weather-data-pipeline)  
   네이버 날씨 크롤링·DB 적재 자동화 · Selenium·MariaDB·스케줄러 · 파이프라인 설계
 
-- 🪨**철강 산업 에너지 소비량 예측** `2025.03 ~ 2025.04` [↗]   
+- 🪨**철강 산업 에너지 소비량 예측** `2025.03 ~ 2025.04` [↗](https://github.com/seoyeon59/steel-energy-prediction)   
   전력 소비 요인 회귀 분석 · R² 0.878 · 개인 프로젝트
 
-- 📊 **시스 로그 분석 학습** `2025.01 ~ 2025.02` [↗]   
+- 📊 **시스 로그 분석 학습** `2025.01 ~ 2025.02` [↗](https://github.com/seoyeon59/wifi-syslog-analysis)   
   교내 Wi-Fi syslog 분석 · Linux·Python·SQL · 1인당 모바일 1.39대
 
 - 🚗 **중고차 가격 예측** `2023.09 ~ 2023.12` [↗](https://github.com/seoyeon59/used-car-price-prediction)    
