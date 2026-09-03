@@ -86,8 +86,7 @@
   <img src="https://img.shields.io/badge/Instagram-FF0069?style=flat-square&logo=instagram&logoColor=white">
 </a>
 
-    <br>
-
+  
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=egg&color=0:8B7FD4,100:4A3F94&height=120&section=footer" />
 </p>
