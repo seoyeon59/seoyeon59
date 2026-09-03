@@ -78,14 +78,6 @@
    
     <br>
 
-## 💌 Contact
- <a href="mailto:njtbear3@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white">
-</a>
-<a href="https://www.instagram.com/w__kite/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-FF0069?style=flat-square&logo=instagram&logoColor=white">
-</a>
-
   
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=egg&color=0:6DD5ED,100:2193B0&height=120&section=footer" />
