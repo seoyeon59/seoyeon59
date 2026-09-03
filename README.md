@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=egg&color=color=0:8B7FD4,100:4A3F94&height=200&section=header&text=I'm%20Seoyeon%20👋&fontSize=45&fontColor=ffffff&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=egg&color=0:8B7FD4,100:4A3F94&height=200&section=header&text=Hi%20there!%20I'm%20Seoyeon&fontSize=42&fontColor=ffffff&fontAlignY=32" />
 </p>
 
 ## 💡 About Me
@@ -50,7 +50,7 @@
   AI 기반 고령층 낙상 감지 헬스케어 앱 · 팀장 / 기획 / AI 담당
 
 - 📈 **Wiki Trend - 위키피디아 실시간 스트림 트랜드 감지 파이프라인** `2026.03 ~ 2026.05`  
-  Docker·K8s 기반 MSA 배포 · SW 저작권 등록
+   실시간 스트림 처리 파이프라인 · Docker·K8s 기반 MSA 배포 · SW 저작권 등록
   
 - 🦙 **싹싹번역 - 전공 강의자료 번역 프로그램** `2026.04 ~ 2025.05`  
   로컬 LLM 전공 강의자료 번역기 · 24개 전공 용어사전 · 개발·배포 단독 수행 · SW 저작권 등록
@@ -62,7 +62,7 @@
   상황별 커뮤니케이션 템플릿 앱 · Kotlin·Room DB · GURU2 장려상
 
 - 🔓 **홈페이지 비정상 접속 유형 분석** `2025.06 ~ 2025.09`  
-  Linux/Apache 홈페이지 구축 · 웹 로그 기반 비정상 접속 유형 분석 · Linux·Apache·SQL · 총괄 리더
+  웹 로그 기반 비정상 접속 유형 분석 · Linux·Apache·SQL · 총괄 리더
 
 - 🌐 **에티코드 — AI 편향 체험 퀴즈** `2025.03 ~ 2025.06`   
   AI 윤리 캠페인 퀴즈 웹 · GitHub Pages 배포 · 참여자 249명
@@ -86,7 +86,8 @@
   <img src="https://img.shields.io/badge/Instagram-FF0069?style=flat-square&logo=instagram&logoColor=white">
 </a>
 
+    <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=egg&color=color=0:8B7FD4,100:4A3F94&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=egg&color=0:8B7FD4,100:4A3F94&height=120&section=footer" />
 </p>
