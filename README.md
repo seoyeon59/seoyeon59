@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A8D8A8,100:6BBF6B&height=200&section=header&text=Hi%20there!%20I'm%20Seoyeon%20👋&fontSize=45&fontColor=ffffff&fontAlignY=38" />
+</p>
+
+<p align="center">
+  <b>ML · Data Engineering · MLOps 🔍</b>
+</p>
+
 ## 💡 About Me
 
 서울여자대학교 데이터사이언스학과 4학년   
