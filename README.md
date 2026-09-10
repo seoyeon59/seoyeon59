@@ -3,6 +3,8 @@
 </p>
 
 <p align="center">
+  데이터가 쌓이는 길을 설계하고, 그 위에서 만든 AI를 서비스까지 끌고 갑니다.<br>
+  <br>
   <img src="https://img.shields.io/badge/Data%20Engineering-8B7AB8?style=flat-square" />
   <img src="https://img.shields.io/badge/AI%20Product-C4B5E8?style=flat-square&labelColor=C4B5E8" />
 </p>
