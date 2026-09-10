@@ -4,11 +4,11 @@
 
 ## 💡 About Me
 
-서울여자대학교 데이터사이언스학과 4학년   
+서울여자대학교 데이터사이언스학과 4학년  
 교내 데이터사이언스 소학회 DSOB 전 회원  
 교내 데이터사이언스 소학회 데이터엔지니어스 개설자 · 전 회장
 
-  <br>
+<br>
 
 ## 🛠️ Tech Stack
 
@@ -29,11 +29,12 @@
 ![matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
-**Database & Infra**   
+**Database & Infra**  
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
@@ -44,63 +45,65 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
-  <br>
+<br>
 
 ## 💻 Projects
 
+`Data Engineering` 데이터 수집·적재·파이프라인·품질 · `Data Analysis` 분석·모델링 · `ML/AI` 딥러닝·LLM · `App` 앱·웹 개발
+
 ### 2023
-- 🚗 **중고차 가격 예측** `2023.09 ~ 2023.12` [↗](https://github.com/seoyeon59/used-car-price-prediction)    
+
+- 🚗 **중고차 가격 예측** `2023.09 ~ 2023.12` `Data Analysis` [↗](https://github.com/seoyeon59/used-car-price-prediction)  
   차량 이력정보까지 반영한 회귀 모델 · XGBoost RMSE 0.09
 
-
 ### 2025
-- 📊 **시스 로그 분석 학습** `2025.01 ~ 2025.02` [↗](https://github.com/seoyeon59/wifi-syslog-analysis)   
+
+- 📊 **시스템 로그 분석 학습** `2025.01 ~ 2025.02` `Data Analysis` [↗](https://github.com/seoyeon59/wifi-syslog-analysis)  
   교내 Wi-Fi syslog 분석 · Linux·Python·SQL · 1인당 모바일 1.39대
 
-- 🔗 **악성 URL 분류 AI 경진대회**  `2025.03 ~ 2025.04` [↗](https://github.com/Jasmin527/url)
+- 🔗 **악성 URL 분류 AI 경진대회** `2025.03 ~ 2025.04` `Data Analysis` [↗](https://github.com/Jasmin527/url)  
   악성 URL 분류 분석 · Accuracy 0.953 · 대회 점수 0.962
 
-- 🪨**철강 산업 에너지 소비량 예측** `2025.03 ~ 2025.04` [↗](https://github.com/seoyeon59/steel-energy-prediction)   
+- 🪨 **철강 산업 에너지 소비량 예측** `2025.03 ~ 2025.04` `Data Analysis` [↗](https://github.com/seoyeon59/steel-energy-prediction)  
   전력 소비 요인 회귀 분석 · R² 0.878 · 개인 프로젝트
 
-- 🌦️ **Weather Data Pipeline** `2025.03 ~ 2025.05` [↗](https://github.com/seoyeon59/weather-data-pipeline)  
+- 🌦️ **Weather Data Pipeline** `2025.03 ~ 2025.05` `Data Engineering` [↗](https://github.com/seoyeon59/weather-data-pipeline)  
   네이버 날씨 크롤링·DB 적재 자동화 · Selenium·MariaDB·스케줄러 · 파이프라인 설계
 
-- 🔗 **도메인 기반 악성 URL 공격 유형 다중 분류** `2025.03 ~ 2025.05`
-  
-
-- 🌾 **머신러닝 기반 기후환경에 따른 연간 논벼 생산량 예측**
-  
-
-- 🌐 **에티코드 — AI 편향 체험 퀴즈** `2025.03 ~ 2025.06` [↗](https://github.com/stoney109/bahrom-ethicode-quiz-web)   
+- 🌐 **에티코드 — AI 편향 체험 퀴즈** `2025.03 ~ 2025.06` `App` [↗](https://github.com/stoney109/bahrom-ethicode-quiz-web)  
   AI 윤리 캠페인 퀴즈 웹 · GitHub Pages 배포 · 참여자 249명
 
-- 🔓 **홈페이지 비정상 접속 유형 분석** `2025.06 ~ 2025.09` [홈페이지↗](https://github.com/seoyeon59/dataengenius-website) [분석↗](https://github.com/seoyeon59/access-log-analysis)  
+- 🔗 **도메인 기반 악성 URL 공격 유형 다중 분류** `2025.05` `Data Analysis`  
+  ISCX-URL2016 도메인 특성 기반 4종 공격 유형 분류 · Random Forest Accuracy 0.93 · 3인 팀 프로젝트
+
+- 🌾 **머신러닝 기반 기후환경에 따른 연간 논벼 생산량 예측** `2025.06` `Data Analysis`  
+  KOSIS·기상청 ASOS 기반 전라도 논벼 생산량 회귀 예측 · R² 0.587 · RMSE 29.05 · 3인 팀 프로젝트
+
+- 🔓 **홈페이지 비정상 접속 유형 분석** `2025.06 ~ 2025.09` `Data Engineering` `Data Analysis` [홈페이지↗](https://github.com/seoyeon59/dataengenius-website) [분석↗](https://github.com/seoyeon59/access-log-analysis)  
   웹 로그 기반 비정상 접속 유형 분석 · Linux·Apache·SQL · 총괄 리더
 
-
 ### 2026
-- 🗣️ **TonePack** `2025.12 ~ 2026.01` [↗](https://github.com/seoyeon59/tonepack)  
+
+- 🩺 **실시간 낙상 위험 알림 시스템** `2025.09 ~ 2026.02` `ML/AI` [↗](https://github.com/seoyeon59/fall-risk-prediction)  
+  포즈 추정 기반 낙상 예측 시스템 · AUC 0.98 · 팀장 / 논문 제1저자 · SW 저작권 등록
+
+- 🗣️ **TonePack** `2025.12 ~ 2026.01` `App` [↗](https://github.com/seoyeon59/tonepack)  
   상황별 커뮤니케이션 템플릿 앱 · Kotlin·Room DB · GURU2 장려상
 
-- 🩺 **실시간 낙상 위험 알림 시스템** `2025.09 ~ 2026.02` [↗](https://github.com/seoyeon59/fall-risk-prediction)  
-  포즈 추정 기반 낙상 예측 시스템 · AUC 0.98 · 팀장 / 논문 제1저자 · SW 저작권 등록
- 
-- 🦙 **싹싹번역 — 전공 강의자료 번역 프로그램** `2026.04 ~ 2025.05` [↗](https://github.com/seoyeon59/ssaksak-translate)  
+- 📈 **Wiki Trend — 위키피디아 실시간 트렌드 감지 파이프라인** `2026.03 ~ 2026.05` `Data Engineering` [↗](https://github.com/seoyeon59/wiki-trend)  
+  실시간 스트림 처리 파이프라인 · Docker·K8s 기반 MSA 배포 · SW 저작권 등록
+
+- 🦙 **싹싹번역 — 전공 강의자료 번역 프로그램** `2026.04 ~ 2026.05` `ML/AI` `App` [↗](https://github.com/seoyeon59/ssaksak-translate)  
   로컬 LLM 전공 강의자료 번역기 · 24개 전공 용어사전 · 개발·배포 단독 수행 · SW 저작권 등록
 
-- 📈 **Wiki Trend — 위키피디아 실시간 트렌드 감지 파이프라인** `2026.03 ~ 2026.05` [↗](https://github.com/seoyeon59/wiki-trend)  
-   실시간 스트림 처리 파이프라인 · Docker·K8s 기반 MSA 배포 · SW 저작권 등록
-   
-- 🩺 **늘봄 낙상감지 앱** `2026.04 ~ 진행 중`  
+- 🩺 **늘봄 낙상감지 앱** `2026.04 ~ 진행 중` `ML/AI` `App`  
   AI 기반 고령층 낙상 감지 헬스케어 앱 · 팀장 / 기획 / AI 담당
 
-- 📋 **아파치 웹 로그 데이터 품질 평가** `2026.09 ~ 진행 중`  
+- 📋 **아파치 웹 로그 데이터 품질 평가** `2026.09 ~ 진행 중` `Data Engineering`  
+  Apache 웹 로그 대상 데이터 품질 진단
 
-   
-    <br>
+<br>
 
-  
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=egg&color=0:C4B5E8,100:8B7AB8&height=120&section=footer" />
 </p>
