@@ -2,11 +2,18 @@
   <img src="https://capsule-render.vercel.app/api?type=egg&color=0:C4B5E8,100:8B7AB8&height=200&section=header&text=I'm%20Seoyeon%20🖐️&fontSize=42&fontColor=ffffff&fontAlignY=32" />
 </p>
 
+<p align="center">
+  데이터를 수집하고 쌓는 파이프라인을 직접 설계하는 일과,<br>
+  그렇게 쌓인 데이터로 만든 AI를 실제 쓰이는 서비스로 끌고 가는 일에 관심이 있습니다.<br>
+  <br>
+  <b>데이터 엔지니어링</b> · <b>AI 프로덕트 기획</b>
+</p>
+
 ## 💡 About Me
 
 서울여자대학교 데이터사이언스학과 4학년  
+교내 데이터사이언스 소학회 데이터엔지니어스 개설자 · 전 회장 
 교내 데이터사이언스 소학회 DSOB 전 회원  
-교내 데이터사이언스 소학회 데이터엔지니어스 개설자 · 전 회장
 
 <br>
 
@@ -24,6 +31,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
@@ -44,6 +52,24 @@
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+
+<br>
+
+## 🏆 Achievements
+
+**논문**
+- **Decision Tree 모델 기반 노인 낙상 단기 예측 변수 영향 분석** · 제1저자  
+  『지능정보연구』 32권 1호, 241–254 · 학술대회 Fast Track `2026.03`  
+  [DOI: 10.13088/jiis.2026.32.1.241](http://dx.doi.org/10.13088/jiis.2026.32.1.241)
+
+**SW 저작권 등록**
+- **싹싹번역 (Ssaksak)** · 단독 저작 · 제C-2026-025398호 `2026.05`
+- **Wiki Trend (위키트렌드)** · 공동 저작 · 제C-2026-023989호 `2026.05`
+- **실시간 인공지능 기반 낙상 감지 및 경고 시스템** · 공동 저작 · 제C-2025-058399호 `2025.12`
+
+**수상**
+- **장려상** — 2025년도 겨울방학 Programming GURU2 해커톤 (Android 부문)  
+  서울여자대학교 미래산업융합대학 `2026.01`
 
 <br>
 
@@ -85,25 +111,12 @@
 ### 2026
 
 - 🩺 **실시간 낙상 위험 알림 시스템** `2025.09 ~ 2026.02` `AI Development` [↗](https://github.com/seoyeon59/fall-risk-prediction)  
-  포즈 추정 기반 낙상 예측 시스템 · AUC 0.98 · 팀장 / 논문 제1저자 · SW 저작권 등록
+  MediaPipe Pose 기반 낙상 단기 예측 · Decision Tree · AUC 0.98 / Accuracy 0.93 · 팀장 / 논문 제1저자 · SW 저작권 등록
 
 - 🗣️ **TonePack** `2025.12 ~ 2026.01` `App` [↗](https://github.com/seoyeon59/tonepack)  
-  상황별 커뮤니케이션 템플릿 앱 · Kotlin·Room DB · GURU2 장려상
+  상황별 커뮤니케이션 템플릿 앱 · Kotlin·Room DB · GURU2 해커톤 장려상
 
 - 📈 **Wiki Trend — 위키피디아 실시간 트렌드 감지 파이프라인** `2026.03 ~ 2026.05` `Data Engineering` [↗](https://github.com/seoyeon59/wiki-trend)  
   실시간 스트림 처리 파이프라인 · Docker·K8s 기반 MSA 배포 · SW 저작권 등록
 
-- 🦙 **싹싹번역 — 전공 강의자료 번역 프로그램** `2026.04 ~ 2026.05` `AI Development` `App` [↗](https://github.com/seoyeon59/ssaksak-translate)  
-  로컬 LLM 전공 강의자료 번역기 · 24개 전공 용어사전 · 개발·배포 단독 수행 · SW 저작권 등록
-
-- 🩺 **늘봄 낙상감지 앱** `2026.04 ~ 진행 중` `AI Development` `App`  
-  AI 기반 고령층 낙상 감지 헬스케어 앱 · 팀장 / 기획 / AI 담당
-
-- 📋 **아파치 웹 로그 데이터 품질 평가** `2026.09 ~ 진행 중` `Data Engineering`  
-  Apache 웹 로그 대상 데이터 품질 진단
-
-<br>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=egg&color=0:C4B5E8,100:8B7AB8&height=120&section=footer" />
-</p>
+- 🦙 **싹싹번역 — 전공 강의자료 번역
