@@ -49,7 +49,7 @@
 
 ## 💻 Projects
 
-`Data Engineering` 데이터 수집·적재·파이프라인·품질 · `Data Analysis` 분석·모델링 · `ML/AI` 딥러닝·LLM · `App` 앱·웹 개발
+`Data Engineering` 데이터 수집·적재·파이프라인·품질 · `Data Analysis` 분석·모델링 · `AI Development` AI 모델 기반 서비스 개발 · `App` 앱·웹 개발
 
 ### 2023
 
@@ -84,7 +84,7 @@
 
 ### 2026
 
-- 🩺 **실시간 낙상 위험 알림 시스템** `2025.09 ~ 2026.02` `ML/AI` [↗](https://github.com/seoyeon59/fall-risk-prediction)  
+- 🩺 **실시간 낙상 위험 알림 시스템** `2025.09 ~ 2026.02` `AI Development` [↗](https://github.com/seoyeon59/fall-risk-prediction)  
   포즈 추정 기반 낙상 예측 시스템 · AUC 0.98 · 팀장 / 논문 제1저자 · SW 저작권 등록
 
 - 🗣️ **TonePack** `2025.12 ~ 2026.01` `App` [↗](https://github.com/seoyeon59/tonepack)  
@@ -93,10 +93,10 @@
 - 📈 **Wiki Trend — 위키피디아 실시간 트렌드 감지 파이프라인** `2026.03 ~ 2026.05` `Data Engineering` [↗](https://github.com/seoyeon59/wiki-trend)  
   실시간 스트림 처리 파이프라인 · Docker·K8s 기반 MSA 배포 · SW 저작권 등록
 
-- 🦙 **싹싹번역 — 전공 강의자료 번역 프로그램** `2026.04 ~ 2026.05` `ML/AI` `App` [↗](https://github.com/seoyeon59/ssaksak-translate)  
+- 🦙 **싹싹번역 — 전공 강의자료 번역 프로그램** `2026.04 ~ 2026.05` `AI Development` `App` [↗](https://github.com/seoyeon59/ssaksak-translate)  
   로컬 LLM 전공 강의자료 번역기 · 24개 전공 용어사전 · 개발·배포 단독 수행 · SW 저작권 등록
 
-- 🩺 **늘봄 낙상감지 앱** `2026.04 ~ 진행 중` `ML/AI` `App`  
+- 🩺 **늘봄 낙상감지 앱** `2026.04 ~ 진행 중` `AI Development` `App`  
   AI 기반 고령층 낙상 감지 헬스케어 앱 · 팀장 / 기획 / AI 담당
 
 - 📋 **아파치 웹 로그 데이터 품질 평가** `2026.09 ~ 진행 중` `Data Engineering`  
