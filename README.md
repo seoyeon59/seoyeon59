@@ -3,10 +3,8 @@
 </p>
 
 <p align="center">
-  데이터를 수집하고 쌓는 파이프라인을 직접 설계하는 일과,<br>
-  그렇게 쌓인 데이터로 만든 AI를 실제 쓰이는 서비스로 끌고 가는 일에 관심이 있습니다.<br>
-  <br>
-  <b>데이터 엔지니어링</b> · <b>AI 프로덕트 기획</b>
+  <img src="https://img.shields.io/badge/Data%20Engineering-8B7AB8?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI%20Product-C4B5E8?style=flat-square&labelColor=C4B5E8" />
 </p>
 
 ## 💡 About Me
