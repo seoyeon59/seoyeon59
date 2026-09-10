@@ -3,16 +3,31 @@
 </p>
 
 <p align="center">
-  데이터가 쌓이는 길을 설계하고, 그 위에서 만든 AI를 서비스까지 끌고 갑니다.<br>
-  <br>
-<img src="https://img.shields.io/badge/데이터%20엔지니어링-8B7AB8?style=for-the-badge&labelColor=00000000&color=00000000" />
+  데이터가 쌓이는 길을 설계하고, 그 위에서 만든 AI를 서비스까지 끌고 갑니다.
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/데이터%20엔지니어링-8B7AB8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20프로덕트%20기획-C4B5E8?style=for-the-badge" />
+</p>
+
+<!-- 배경 없이 보라색 글자로 쓰려면 위 배지 두 줄을 지우고 아래 주석을 푸세요.
+     assets/tagline.svg 파일을 저장소에 올려야 합니다.
+<p align="center">
+  <img src="./assets/tagline.svg" width="440" />
+</p>
+-->
+
+<br>
 
 ## 💡 About Me
 
 서울여자대학교 데이터사이언스학과 4학년  
-교내 데이터사이언스 소학회 데이터엔지니어스 개설자 · 전 회장 
+교내 데이터사이언스 소학회 데이터엔지니어스 개설자 · 전 회장  
 교내 데이터사이언스 소학회 DSOB 전 회원  
+
+📮njtbear3@gmail.com
+📮njtbear3@naver.com
 
 <br>
 
@@ -118,4 +133,17 @@
 - 📈 **Wiki Trend — 위키피디아 실시간 트렌드 감지 파이프라인** `2026.03 ~ 2026.05` `Data Engineering` [↗](https://github.com/seoyeon59/wiki-trend)  
   실시간 스트림 처리 파이프라인 · Docker·K8s 기반 MSA 배포 · SW 저작권 등록
 
-- 🦙 **싹싹번역 — 전공 강의자료 번역
+- 🦙 **싹싹번역 — 전공 강의자료 번역 프로그램** `2026.04 ~ 2026.05` `AI Development` `App` [↗](https://github.com/seoyeon59/ssaksak-translate)  
+  로컬 LLM 전공 강의자료 번역기 · 24개 전공 용어사전 · 개발·배포 단독 수행 · SW 저작권 단독 등록
+
+- 🩺 **늘봄 낙상감지 앱** `2026.04 ~ 진행 중` `AI Development` `App`  
+  AI 기반 고령층 낙상 감지 헬스케어 앱 · 팀장 / 기획 / AI 담당
+
+- 📋 **아파치 웹 로그 데이터 품질 평가** `2026.09 ~ 진행 중` `Data Engineering`  
+  Apache 웹 로그 대상 데이터 품질 진단
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=egg&color=0:C4B5E8,100:8B7AB8&height=120&section=footer" />
+</p>
