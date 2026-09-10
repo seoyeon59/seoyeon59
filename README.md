@@ -7,16 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/데이터%20엔지니어링-8B7AB8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20프로덕트%20기획-C4B5E8?style=for-the-badge" />
-</p>
-
-<!-- 배경 없이 보라색 글자로 쓰려면 위 배지 두 줄을 지우고 아래 주석을 푸세요.
-     assets/tagline.svg 파일을 저장소에 올려야 합니다.
-<p align="center">
   <img src="./assets/tagline.svg" width="440" />
 </p>
--->
 
 <br>
 
@@ -26,7 +18,7 @@
 교내 데이터사이언스 소학회 데이터엔지니어스 개설자 · 전 회장  
 교내 데이터사이언스 소학회 DSOB 전 회원  
 
-📮njtbear3@gmail.com
+📮njtbear3@gmail.com  
 📮njtbear3@naver.com
 
 <br>
