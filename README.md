@@ -128,8 +128,8 @@
 - 🦙 **싹싹번역 — 전공 강의자료 번역 프로그램** `2026.04 ~ 2026.05` `AI Development` `App` [↗](https://github.com/seoyeon59/ssaksak-translate)  
   로컬 LLM 전공 강의자료 번역기 · 24개 전공 용어사전 · 개발·배포 단독 수행 · SW 저작권 단독 등록
 
-- 🩺 **늘봄 낙상감지 앱** `2026.04 ~ 진행 중` `AI Development` `App`  
-  AI 기반 고령층 낙상 감지 헬스케어 앱 · 팀장 / 기획 / AI 담당
+- 🩺 **늘봄 낙상감지 앱** `2026.04 ~ 2026.11` `AI Development` `App` [프론트↗](https://github.com/seoyeon59/OnSafe) [백엔드↗](https://github.com/codingMaster-404/Onsafe_Backend)
+  AI 기반 고령층 낙상 감지 헬스케어 앱 · 팀장 / 기획 / AI 담당 · SW 저작권 등록
 
 - 📋 **아파치 웹 로그 데이터 품질 평가** `2026.09 ~ 진행 중` `Data Engineering`  
   Apache 웹 로그 대상 데이터 품질 진단
