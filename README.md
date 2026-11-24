@@ -100,7 +100,7 @@
 
 - 👵 **늘봄 — 스마트폰 카메라 기반 낙상 감지·보호자 알림 앱** `2026.04 ~ 2026.11` `AI Development` `App` [프론트↗](https://github.com/seoyeon59/OnSafe) [백엔드↗](https://github.com/codingMaster-404/Onsafe_Backend)
 
-- 🦙 **싹싹번역 — 전공 강의자료 로컬 LLM 번역 프로그램** `2026.04 ~ 2026.05` `AI Development` `App` [↗](https://github.com/seoyeon59/ssaksak-translate)
+- 🦙 **싹싹번역 — 전공 강의자료 로컬 LLM 번역 프로그램** `2026.04 ~ 2026.05` `AI Development` `App·Web` [코드↗](https://github.com/seoyeon59/ssaksak-translate) [홈페이지↗](https://seoyeon59.github.io/ssaksak-translate/)
 
 - 📈 **Wiki Trend — 위키피디아 실시간 트렌드 감지 파이프라인** `2026.03 ~ 2026.05` `Data Engineering` `Web` [↗](https://github.com/seoyeon59/wiki-trend)
 
@@ -126,7 +126,7 @@
 
 ### Side Projects
 
-- 🚂 **시간이 멈춘 열차 — 웹 방탈출 게임** `2026.11` `Web` [플레이↗](배포 주소) [↗](https://github.com/seoyeon59/the-last-run)
+- 🚂 **시간이 멈춘 열차 — 웹 방탈출 게임** `2026.11` `Web` [코드↗](https://github.com/seoyeon59/the-last-run) [플레이↗](https://the-last-run.vercel.app/) 
 
 - 🌐 **에티코드 — AI 편향 체험 퀴즈** `2025.03 ~ 2025.06` `Web` [↗](https://github.com/stoney109/bahrom-ethicode-quiz-web)
 
