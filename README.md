@@ -112,7 +112,7 @@
 
 - 🔓 **홈페이지 비정상 접속 유형 분석** `2025.06 ~ 2025.09` `Data Engineering` `Data Analysis` `Web` [홈페이지↗](https://github.com/seoyeon59/dataengenius-website) [분석↗](https://github.com/seoyeon59/access-log-analysis)
 
-- 🛡️ **도메인 기반 악성 URL 공격 유형 다중 분류** `2025.05` `Data Analysis`
+- 🛡️ **도메인 기반 악성 URL 공격 유형 다중 분류** `2025.05` `Data Analysis` [↗](https://github.com/seoyeon59/malicious-url-type-classification)
 
 - 🔗 **악성 URL 분류 AI 경진대회** `2025.03 ~ 2025.04` `Data Analysis` [↗](https://github.com/Jasmin527/url)
 
