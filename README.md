@@ -128,7 +128,7 @@
 
 - 🚂 **시간이 멈춘 열차 — 웹 방탈출 게임** `2026.11` `Web` [코드↗](https://github.com/seoyeon59/the-last-run) [플레이↗](https://the-last-run.vercel.app/) 
 
-- 🌐 **에티코드 — AI 편향 체험 퀴즈** `2025.03 ~ 2025.06` `Web` [↗](https://github.com/stoney109/bahrom-ethicode-quiz-web)
+- 🌐 **에티코드 — AI 편향 체험 퀴즈** `2025.03 ~ 2025.06` `Web` [코드↗](https://github.com/stoney109/bahrom-ethicode-quiz-web) [플레이↗](https://stoney109.github.io/bahrom-ethicode-quiz-web/)
 
 <br>
 
