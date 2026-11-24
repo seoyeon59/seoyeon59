@@ -77,10 +77,10 @@
   [DOI: 10.13088/jiis.2026.32.1.241](https://doi.org/10.13088/jiis.2026.32.1.241)
 
 **SW 저작권 등록**
+- **늘봄 (Neulbom)** · 공동 저작 · 제C-2026-061294호 `2026.11`
 - **싹싹번역 (Ssaksak)** · 단독 저작 · 제C-2026-025398호 `2026.05`
 - **Wiki Trend (위키트렌드)** · 공동 저작 · 제C-2026-023989호 `2026.05`
 - **실시간 인공지능 기반 낙상 감지 및 경고 시스템** · 공동 저작 · 제C-2025-058399호 `2025.12`
-- **늘봄(Neulbom)** · 공동 저작 · 제C-2026-061294호 `2026.11`
 
 **수상**
 - **장려상** — 2025년도 겨울방학 Programming GURU2 해커톤 (Android 부문) · [TonePack](https://github.com/seoyeon59/tonepack)  
@@ -90,7 +90,7 @@
 
 ## 💻 Projects
 
-<sub>Data Engineering 수집·적재·파이프라인·품질 · Data Analysis 분석·모델링 · AI Development AI 기반 서비스 · App / Web 앱·웹 개발</sub>
+<sub>Data Engineering 수집·적재·파이프라인·품질 · Data Analysis 분석·모델링 · AI Development AI 기반 서비스 · App 앱 · Web 웹</sub>
 
 ### 2026
 
@@ -112,8 +112,6 @@
 
 - 🔓 **홈페이지 비정상 접속 유형 분석** `2025.06 ~ 2025.09` `Data Engineering` `Data Analysis` `Web` [홈페이지↗](https://github.com/seoyeon59/dataengenius-website) [분석↗](https://github.com/seoyeon59/access-log-analysis)
 
-- 🌐 **에티코드 — AI 편향 체험 퀴즈** `2025.03 ~ 2025.06` `Web` [↗](https://github.com/stoney109/bahrom-ethicode-quiz-web)
-
 - 🛡️ **도메인 기반 악성 URL 공격 유형 다중 분류** `2025.05` `Data Analysis`
 
 - 🔗 **악성 URL 분류 AI 경진대회** `2025.03 ~ 2025.04` `Data Analysis` [↗](https://github.com/Jasmin527/url)
@@ -125,6 +123,12 @@
 ### 2023
 
 - 🚗 **중고차 가격 예측** `2023.09 ~ 2023.12` `Data Analysis` [↗](https://github.com/seoyeon59/used-car-price-prediction)
+
+### Side Projects
+
+- 🚂 **시간이 멈춘 열차 — 웹 방탈출 게임** `2026.11` `Web` [플레이↗](배포 주소) [↗](https://github.com/seoyeon59/the-last-run)
+
+- 🌐 **에티코드 — AI 편향 체험 퀴즈** `2025.03 ~ 2025.06` `Web` [↗](https://github.com/stoney109/bahrom-ethicode-quiz-web)
 
 <br>
 
