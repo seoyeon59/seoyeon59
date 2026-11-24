@@ -90,7 +90,7 @@
 
 ## 💻 Projects
 
-`Data Engineering` 데이터 수집·적재·파이프라인·품질 · `Data Analysis` 분석·모델링 · `AI Development` AI 모델 기반 서비스 개발 · `App / Web` 앱·웹 개발
+<sub>Data Engineering 수집·적재·파이프라인·품질 · Data Analysis 분석·모델링 · AI Development AI 기반 서비스 · App / Web 앱·웹 개발</sub>
 
 ### 2026
 
