@@ -94,8 +94,6 @@
 
 ### 2026
 
-- 📋 **아파치 웹 로그 데이터 품질 평가** `2026.09 ~ 진행 중` `Data Engineering`
-
 - 📰 **QuPicT — 의미 선택 기반 뉴스 RAG 질의응답 서비스** `2026.10 ~ 2026.11` `AI Development` `Data Engineering` `Web` [코드↗](https://github.com/ssshyun1001/2026_DS_NewsQnA) [홈페이지↗](https://qupict-920254012527.asia-northeast3.run.app/)
 
 - 👵 **늘봄 — 스마트폰 카메라 기반 낙상 감지·보호자 알림 앱** `2026.04 ~ 2026.11` `AI Development` `App` [프론트↗](https://github.com/seoyeon59/OnSafe) [백엔드↗](https://github.com/codingMaster-404/Onsafe_Backend)
